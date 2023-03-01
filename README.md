@@ -24,4 +24,4 @@ Addtional features that could be added in LightMart, which may have to interact 
 
 It is important to note that LightMart is not a complete marketplace, it has not been audited, the legal implications have not been explored prior to the publishing of this open source script and the potential tax implications of LightMart may carry varying outputs of fiscal responisbility in various jurisdictions around the world. Use at your own risk. 
 
-NoCodeClarity believes in the power of Bitcoin and Bitcoin layers such as Lightning so it's important that LightMart is open source, especially as a hackathon submission for the [2023 MIT Bitcoin Hackathon](https://mitbitcoin.devpost.com/).
+NoCodeClarity believes in the power of Bitcoin and Bitcoin layers such as Lightning so it's important that LightMart is open source.
